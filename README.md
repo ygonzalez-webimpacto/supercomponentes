@@ -1,2 +1,0 @@
-# supercomponentes
-Pruebas de github
